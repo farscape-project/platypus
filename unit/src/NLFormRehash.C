@@ -51,11 +51,7 @@ public:
 };
 
 /*****************************************\
-! My non-linear form for
-! proving my superiority to 
-! Karthiks understanding
-! under provocation of a
-! gentlemans wager
+! A new non-linear form
 !
 ! Singularly non-linear test problem
 ! c(u)u  + Laplacian (u) - f = R(u)
